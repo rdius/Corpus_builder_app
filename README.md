@@ -6,7 +6,7 @@
 * Run by : streamlit run app_collect.py
 ```
 
-### Output
+### Run and Check it out!
 ![alt tag](./out.png)
 
 ![alt tag](./out1.png)
